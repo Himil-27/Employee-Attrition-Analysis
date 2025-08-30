@@ -12,4 +12,4 @@ Steps Involved: - Data Cleaning in SQL
                 - Exploratory Data Analysis with SQL
                 - Built Power BI Dashboard
 
-Dashboard Preview: ![Dashboard Preview](images/dashboard.png)
+Dashboard Preview: ![Dashboard Preview](images/DASHBOARD.png)
