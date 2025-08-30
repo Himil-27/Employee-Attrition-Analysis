@@ -16,4 +16,5 @@
 #####                 - Exploratory Data Analysis with SQL
 #####                 - Built Power BI Dashboard
 
-Dashboard Preview: ![Dashboard Preview](images/DASHBOARD.png)
+### Dashboard Preview: 
+![Dashboard Preview](images/DASHBOARD.png)
