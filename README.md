@@ -5,7 +5,7 @@
 #####   - To analyze employee attrition trends, identify contributing factors, and derive business insights using structured query language (SQL). The goal is to help HR   departments reduce turnover and improve employee satisfaction.
 
 ### Objectives: 
-#####   - Understand attrition trends across departments, job roles, and demographics.
+!#####   - Understand attrition trends across departments, job roles, and demographics.
 #####   - Analyze attrition by age, gender, education, job satisfaction, and salary.
 #####   - Build an interactive Power BI dashboard for visual insights.
 
